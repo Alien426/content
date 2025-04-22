@@ -14,9 +14,7 @@ sidebar: learnsidebar
     <tr>
       <th scope="row">Prerequisites:</th>
       <td>
-        <a href="/en-US/docs/Learn_web_development/Core/Structuring_content"
-          >Structuring content with HTML</a
-        >,
+        <a href="/en-US/docs/Learn_web_development/Core/Structuring_content">Structuring content with HTML</a>,
         <a href="/en-US/docs/Learn_web_development/Core/Styling_basics">CSS Styling basics</a>,
         <a href="/en-US/docs/Learn_web_development/Core/Text_styling/Fundamentals">Fundamental text and font styling</a>,
         familiarity with <a href="/en-US/docs/Learn_web_development/Core/CSS_layout/Introduction">CSS layout fundamental concepts</a>.
